@@ -1,0 +1,23 @@
+
+***** New Search - movie-this - the matrix *****
+
+Error: null
+
+***** New Search - spotify-this-song - havana *****
+
+User Command: node liri.js movie-this jaws 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js spotify-this-song havana 
+
+User Command: node liri.js spotify-this-song havana 
+
+User Command: node liri.js spotify-this-song havana 
+
+User Command: node liri.js movie-this the matrix 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js spotify-this-song havana 
+
